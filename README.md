@@ -26,4 +26,4 @@ cd ss_ge_v3
 scrapy crawl ss -o out.csv
 ```
 
-\*\* You can use any file name to repace out.csv
+\*\* You can use any file name to replace out.csv
