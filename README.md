@@ -19,7 +19,7 @@ Once done your scrapy installation!
 ```
 pip install openpyxl
 git clone
-cd ss_ge_v3
+cd ss_ge_crawler
 ```
 
 ```
